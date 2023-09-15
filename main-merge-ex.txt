@@ -1,1 +1,2 @@
  Hello from main (conflict lab)
+hello from resolving conflits lab
