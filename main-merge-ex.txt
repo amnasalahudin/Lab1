@@ -1,1 +1,1 @@
-hello from three way merge - main
+hello from resolving conflits lab
