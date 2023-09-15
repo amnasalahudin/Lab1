@@ -1,2 +1,1 @@
- Hello from main (conflict lab)
-hello from resolving conflits lab
+hello from main (rebase lab)
